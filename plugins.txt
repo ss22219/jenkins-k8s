@@ -2,3 +2,4 @@ kubernetes:1.29.0
 workflow-aggregator:2.6
 git:4.5.2
 configuration-as-code:1.47
+kubernetes-pipeline-devops-steps:1.6
